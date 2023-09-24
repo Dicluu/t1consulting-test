@@ -7,6 +7,7 @@ test-t1consulting работает как с гипермедией, так и �
 
 - Java 8+
 - Apache Maven 3.9+
+- Tomcat 10+
 
 ## Starting
 
